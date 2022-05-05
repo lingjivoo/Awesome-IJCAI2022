@@ -230,3 +230,14 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2204.09826
 - Code： https://github.com/Kali-Hac/SimMC
 
+## 22. Contrastive representation learning
+### Text Transformations in Contrastive Self-Supervised Learning: A Review
+- Paper：https://arxiv.org/abs/2203.12000
+
+## 23. Voter Process
+### Invasion Dynamics in the Biased Voter Process
+- Paper：https://arxiv.org/abs/2201.08207
+
+### Online Approval Committee Elections
+- Paper：https://arxiv.org/abs/2202.06830
+
