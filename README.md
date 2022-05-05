@@ -229,4 +229,4 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 ### SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification
 - Paper：https://arxiv.org/abs/2204.09826
 - Code： https://github.com/Kali-Hac/SimMC
-- 
+
