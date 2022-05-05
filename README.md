@@ -1,4 +1,4 @@
-# Awesome-IJCAI2022
+# Awesome-IJCAI 2022
 
 A Collection of Papers and Codes for IJCAI-ECAI 2022
 
@@ -65,6 +65,10 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 ### Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation
 - Paper：https://arxiv.org/abs/2204.13656
 - Code：https://github.com/heyblackC/DFMIR
+
+### Perceptual Learned Video Compression with Recurrent Conditional GAN
+- Paper：https://arxiv.org/abs/2109.03082
+- Code：https://github.com/RenYang-home/PLVC
 
 ## 6. Super Resolution
 ### Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer
@@ -185,7 +189,10 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Code：https://github.com/ZhuYun97/RoSA
 
 ### Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention
+- Paper：https://arxiv.org/abs/2204.11008
 
+### A Survey on Deep Graph Generation: Methods and Applications
+- Paper：https://arxiv.org/abs/2203.06714
 
 
 ## 17.  Adversarial Learning
