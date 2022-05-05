@@ -29,6 +29,12 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2204.14057
 - Code：https://github.com/Cocoxili/CMPC
 
+### Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams
+- Paper：https://arxiv.org/abs/2204.12193
+- Code：https://github.com/sailab-code/cl_stochastic_coherence
+
+### Video Frame Interpolation Based on Deformable Kernel Region
+- Paper：https://arxiv.org/abs/2204.11396
 
 ## 4. Zero-Shot
 ### Zero-Shot Logit Adjustment
@@ -56,6 +62,9 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.00303
 - Code：https://github.com/minzhouGithub/CGL-GAN
 
+### Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation
+- Paper：https://arxiv.org/abs/2204.13656
+- Code：https://github.com/heyblackC/DFMIR
 
 ## 6. Super Resolution
 ### Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer
@@ -121,6 +130,9 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.00427
 - Code：https://github.com/dxing-cs/TinyLight
 
+### Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems
+- Paper：https://arxiv.org/abs/2204.12665
+- Code：https://github.com/dxing-cs/TinyLight
 
 
 ## 14. Federated Learning
@@ -138,6 +150,9 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 
 ### Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection
 - Paper：https://arxiv.org/abs/2204.13256
+
+### Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning
+- Paper：https://arxiv.org/abs/2204.12703
 
 
 ## 15. Pickup and Delivery Problems
@@ -164,9 +179,11 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.00782
 
 ### RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning
-
 - Paper：https://arxiv.org/abs/2204.13846
 - Code：https://github.com/ZhuYun97/RoSA
+
+### Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention
+
 
 
 ## 17.  Adversarial Learning
@@ -178,6 +195,9 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.00107
 - Code：https://github.com/oyhah/DP-RSA
 
+### Data-Efficient Backdoor Attacks
+- Paper：https://arxiv.org/abs/2204.12281
+- Code：https://github.com/xpf/Data-Efficient-Backdoor-Attacks
 
 ## 18.  Scene Text Recognition
 ### SVTR: Scene Text Recognition with a Single Visual Model
@@ -185,5 +205,19 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Code：https://github.com/PaddlePaddle/PaddleOCR
 
 
+## 19. Medical Image Analysis
+### Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation
+- Paper：https://arxiv.org/abs/2204.13656
+- Code：https://github.com/heyblackC/DFMIR
+
+## 20. Speech Synthesis
+### FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis
+- Paper：https://arxiv.org/abs/2204.09934
+- Project：https://fastdiff.github.io/
 
 
+## 21. Person Re-Identification
+### SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification
+- Paper：https://arxiv.org/abs/2204.09826
+- Code： https://github.com/Kali-Hac/SimMC
+- 
