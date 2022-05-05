@@ -21,6 +21,14 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.00687
 - Code：https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube
 
+### Distilling Governing Laws and Source Input for Dynamical Systems from Videos
+- Paper：https://arxiv.org/abs/2205.01314
+- Code：https://github.com/LeleLuan/VideoDiscovery
+
+### Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast
+- Paper：https://arxiv.org/abs/2204.14057
+- Code：https://github.com/Cocoxili/CMPC
+
 
 ## 4. Zero-Shot
 ### Zero-Shot Logit Adjustment
@@ -36,6 +44,17 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 ### RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on
 - Paper：https://arxiv.org/abs/2204.11258
 - Code：https://github.com/jokerlc/RMGN-VITON
+
+### COMET Flows: Towards Generative Modeling of Multivariate Extremes and Tail Dependence
+- Paper：https://arxiv.org/abs/2205.01224
+- Code：https://github.com/andrewmcdonald27/COMETFlows
+
+### Emotion-Controllable Generalized Talking Face Generation
+- Paper：https://arxiv.org/abs/2205.01155
+
+### Composition-aware Graphic Layout GAN for Visual-textual Presentation Designs
+- Paper：https://arxiv.org/abs/2205.00303
+- Code：https://github.com/minzhouGithub/CGL-GAN
 
 
 ## 6. Super Resolution
@@ -70,32 +89,100 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 - Paper：https://arxiv.org/abs/2205.01782
 - Code：https://github.com/CVI-SZU/ME-GraphAU
 
-## 11. Segmentation
+### CTL-MTNet: A Novel Mixed Task Net Based on CapsNet and Transfer Learning for Single-Corpus and Cross-Corpus Speech Emotion Recognition
+- Paper：
+- Code：https://github.com/mldmxm/CTL-MTNet
+
+## 11. Human-Computer Interaction
+### On the Utility of Prediction Sets in Human-AI Teams
+- Paper：https://arxiv.org/abs/2205.01411
+
+
+## 12. Segmentation
 ### Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation
 - Paper：https://arxiv.org/abs/2204.09903
 - Code：https://github.com/chunbolang/DCP
 
-## 12. Reinforcement Learning
+
+### CATrans: Context and Affinity Transformer for Few-Shot Segmentation
+- Paper：https://arxiv.org/abs/2204.09903
+
+### Region-level Contrastive and Consistency Learning for Semi-Supervised Semantic Segmentation
+- Paper：https://arxiv.org/abs/2204.13314
+
+
+
+## 13. Reinforcement Learning
 ### CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning
 - Paper：https://arxiv.org/abs/2205.00943
 - Code：https://github.com/csun001/CCLF
 
-## 13. Federated Learning
+### TinyLight: Adaptive Traffic Signal Control on Devices with Extremely Limited Resources
+- Paper：https://arxiv.org/abs/2205.00427
+- Code：https://github.com/dxing-cs/TinyLight
+
+
+
+## 14. Federated Learning
 ### Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning
 - Paper：https://arxiv.org/abs/2110.08394
 - Code：https://github.com/ljaiverson/pFL-APPLE
 
+### Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios
+- Paper：https://arxiv.org/abs/2204.13594
+- Code：https://github.com/rdz98/PoisonFedDLRS
 
-## 14. Pickup and Delivery Problems
+### Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features
+- Paper：https://arxiv.org/abs/2204.13399
+- Code：https://github.com/shangxinyi/CReFF-FL
+
+### Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection
+- Paper：https://arxiv.org/abs/2204.13256
+
+
+## 15. Pickup and Delivery Problems
 ### Efficient Neural Neighborhood Search for Pickup and Delivery Problems
 - Paper：https://arxiv.org/abs/2204.11399
 - Code：https://github.com/yining043/PDP-N2S
 
 
 
+## 16. Graph Neural Network
+### Learning Label Initialization for Time-Dependent Harmonic Extension
+- Paper：https://arxiv.org/pdf/2205.01358.pdf
+- Code：https://github.com/aGIToz/Learning-Label-Initialization
+
+### Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition
+- Paper：https://arxiv.org/abs/2205.01782
+- Code：https://github.com/CVI-SZU/ME-GraphAU
+
+### Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion
+- Paper：https://arxiv.org/abs/2205.00904
 
 
+### Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs
+- Paper：https://arxiv.org/abs/2205.00782
 
+### RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning
+
+- Paper：https://arxiv.org/abs/2204.13846
+- Code：https://github.com/ZhuYun97/RoSA
+
+
+## 17.  Adversarial Learning
+### Logically Consistent Adversarial Attacks for Soft Theorem Provers
+- Paper：https://arxiv.org/abs/2204.14057
+- Code：https://github.com/alexgaskell10/LAVA
+
+### Bridging Differential Privacy and Byzantine-Robustness via Model Aggregation
+- Paper：https://arxiv.org/abs/2205.00107
+- Code：https://github.com/oyhah/DP-RSA
+
+
+## 18.  Scene Text Recognition
+### SVTR: Scene Text Recognition with a Single Visual Model
+- Paper：https://arxiv.org/abs/2204.14057
+- Code：https://github.com/PaddlePaddle/PaddleOCR
 
 
 
