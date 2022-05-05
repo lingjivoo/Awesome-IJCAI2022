@@ -132,7 +132,9 @@ A Collection of Papers and Codes for IJCAI-ECAI 2022
 
 ### Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems
 - Paper：https://arxiv.org/abs/2204.12665
-- Code：https://github.com/dxing-cs/TinyLight
+
+### Abstraction for Deep Reinforcement Learning
+- Paper：https://arxiv.org/abs/2202.05839
 
 
 ## 14. Federated Learning
